@@ -23,4 +23,7 @@ React16+React-Router4 从零打造企业级电商后台管理系统
 
 # 淘宝镜像站
 http://npm.taobao.org/mirrors/chromedriver/2.34/<br>
-http://npm.taobao.org/dist/phantomjs/
+http://npm.taobao.org/dist/phantomjs/<br>
+
+
+https://www.mongodb.org/dl/win32/x86_64-2008plus-ssl
