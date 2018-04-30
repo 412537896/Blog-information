@@ -27,3 +27,9 @@ http://npm.taobao.org/dist/phantomjs/<br>
 
 
 https://www.mongodb.org/dl/win32/x86_64-2008plus-ssl
+
+《Flask Web开发——基于Python的Web应用开发实践》一字一句上机实践（上）
+http://www.cnblogs.com/liuzhen1995/p/8001040.html
+
+《Flask Web开发——基于Python的Web应用开发实践》一字一句上机实践（下）
+http://www.cnblogs.com/liuzhen1995/p/8035393.html
