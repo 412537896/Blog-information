@@ -34,5 +34,5 @@ http://www.cnblogs.com/liuzhen1995/p/8001040.html
 《Flask Web开发——基于Python的Web应用开发实践》一字一句上机实践（下）
 http://www.cnblogs.com/liuzhen1995/p/8035393.html
 
-Django Web 框架(python)
+Django Web 框架(python)<br>
 https://developer.mozilla.org/zh-CN/docs/learn/Server-side/Django
