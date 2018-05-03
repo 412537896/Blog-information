@@ -36,3 +36,27 @@ http://www.cnblogs.com/liuzhen1995/p/8035393.html
 
 Django Web 框架(python)<br>
 https://developer.mozilla.org/zh-CN/docs/learn/Server-side/Django
+
+React 实践心得：react-redux 之 connect 方法详解<br>
+http://taobaofed.org/blog/2016/08/18/react-redux-connect/
+
+探索react-redux的小秘密<br>
+http://www.alloyteam.com/2016/03/10532/
+
+React-Redux源码剖析<br>
+https://segmentfault.com/a/1190000006196949
+
+react-redux源码解读<br>
+http://www.ayqy.net/blog/react-redux%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/
+
+React-Redux 源码解析系列 -- React-Redux的作用<br>
+http://imweb.io/topic/5a1154fcef79bc941c30d90b
+
+react-redux 源码解析<br>
+https://juejin.im/entry/5947702461ff4b006cf8ff86
+
+Redux入坑进阶-源码解析.md<br>
+https://github.com/ecmadao/Coding-Guide/blob/master/Notes/React/Redux/Redux%E5%85%A5%E5%9D%91%E8%BF%9B%E9%98%B6-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md
+
+React-Redux 源码粗读
+https://blog.kisnows.com/2017/08/03/react-redux-source-code-read/
