@@ -63,3 +63,6 @@ https://blog.kisnows.com/2017/08/03/react-redux-source-code-read/
 
 python <br>
 https://www.zmrenwu.com/
+
+python3-cookbook<br>
+http://python3-cookbook.readthedocs.io/zh_CN/latest/preface.html
