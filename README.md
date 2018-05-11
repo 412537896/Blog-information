@@ -66,3 +66,6 @@ https://www.zmrenwu.com/
 
 python3-cookbook<br>
 http://python3-cookbook.readthedocs.io/zh_CN/latest/preface.html
+
+聊聊并发（七）——Java中的阻塞队列<br>
+http://www.infoq.com/cn/articles/java-blocking-queue
